@@ -7,7 +7,7 @@ ul li {
 .player_one,
 .player_two {
   background-color: rgb(255, 255, 255);
-	  justify-content: flex-start;
+	  justify-content: flex-center;
   align-items: flex-center;
   text-align: center;
 }
