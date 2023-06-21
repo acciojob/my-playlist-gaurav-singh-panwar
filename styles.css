@@ -7,6 +7,7 @@ body {
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  background-color: rgb(255, 255, 255);
 }
 
 .player_one a {
@@ -22,6 +23,7 @@ body {
 .player_two {
   width: 500px;
   height: 300px;
+  text-align: center;
 }
 
 .player_two video {
