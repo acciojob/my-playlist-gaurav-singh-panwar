@@ -1,1 +1,12 @@
 /*  your css code here. If applicable */
+  body {
+      background-color: #cccccc;
+    }
+    
+    .player_one {
+      margin-bottom: 20px;
+    }
+    
+    .player_two {
+      margin-top: 20px;
+    }
