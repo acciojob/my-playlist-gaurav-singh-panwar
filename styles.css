@@ -2,11 +2,13 @@
   body {
       background-color: #cccccc;
     }
-    
-    .player_one {
-      margin-bottom: 20px;
-    }
-    
-    .player_two {
-      margin-top: 20px;
-    }
+ul li {
+  list-style-type: none;
+}
+.player_one,
+.player_two {
+  background-color: rgb(255, 255, 255);
+}
+a {
+  text-decoration: none;
+}
