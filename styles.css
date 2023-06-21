@@ -8,7 +8,7 @@ ul li {
 .player_two {
   background-color: rgb(255, 255, 255);
 	  justify-content: flex-start;
-  align-items: flex-start;
+  align-items: flex-center;
   text-align: center;
 }
 a {
