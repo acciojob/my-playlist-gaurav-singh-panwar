@@ -1,5 +1,4 @@
-/*  your css code here. If applicable */
-  body {
+body {
       background-color: #cccccc;
     }
 ul li {
@@ -8,9 +7,9 @@ ul li {
 .player_one,
 .player_two {
   background-color: rgb(255, 255, 255);
-	 justify-content: flex-start;
+	  justify-content: flex-start;
   align-items: flex-start;
-  text-align: start;
+  text-align: center;
 }
 a {
   text-decoration: none;
